@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = benjamin.masson@gmail.com
+	name = benjamin masson
